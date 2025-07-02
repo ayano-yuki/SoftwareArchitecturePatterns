@@ -1,0 +1,2 @@
+# SoftwareArchitecturePatterns
+ソフトウェアアーキテクチャや設計パターンの集約
